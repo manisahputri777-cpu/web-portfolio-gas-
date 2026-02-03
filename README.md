@@ -1,2 +1,3 @@
-# web-portfolio-gas-
-web portfolio with GAS 
+# Personal Landing Page
+
+Project pertama dalam workshop web portofolio
